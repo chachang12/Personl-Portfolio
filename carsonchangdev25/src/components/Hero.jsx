@@ -34,6 +34,7 @@ const Hero = () => (
     <div className={`ss:hidden ${styles.flexCenter}`}>
       {/*<MyProjectsButton/>*/}
     </div>
+    
   </section>
 )
 

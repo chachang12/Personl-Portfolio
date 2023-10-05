@@ -6,20 +6,20 @@ import React from 'react'
 
 
 const App = () => (
-  <div className="bg-[#2f4454] w-full overflow-hidden">
+  <div className="bg-[#1E341E] w-full overflow-hidden">
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth} py-6 flex justify-center`}>
         <Navbar />
       </div>
     </div>
 
-    <div className={`bg-[#2f4454] ${styles.flexStart}`}>
+    <div className={`bg-[#1E341E] ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
         <Hero />
       </div>
     </div>
 
-    <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
+    <div className={`bg-[#1E341E] ${styles.paddingX} ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
         
         <AboutMe />

@@ -28,6 +28,9 @@ import Headshot3ai from "./Headshot3ai.jpg";
 import cloudvec from "./cloudvec.svg";
 import logoforbg from "./logoforbg.svg";
 import bgwlogo from "./bgwlogo.svg";
+import githubvec from "./githubvec.svg";
+import picklehome from "./picklehome.png";
+import session from "./session.PNG";
 
 export {
   airbnb,
@@ -60,4 +63,7 @@ export {
   cloudvec,
   logoforbg,
   bgwlogo,
+  githubvec,
+  picklehome,
+  session
 };
